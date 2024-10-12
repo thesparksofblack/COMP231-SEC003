@@ -57,6 +57,15 @@ footer {
     font-size: 75%;
 }
 
+label {
+    display: block;
+}
+
+input, textarea{
+        display:block;
+        margin-bottom:20px;
+}
+
 .text{
     text-align: left;
 }
